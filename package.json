@@ -1,0 +1,20 @@
+{
+  "name": "number-guessing-game-ts",
+  "version": "1.0.0",
+  "description": "This is a Number Guessing Game in TS.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/salahsaifjalal/Number-Guessing-Game-TS.git"
+  },
+  "author": "Salahuddin Muhammad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salahsaifjalal/Number-Guessing-Game-TS/issues"
+  },
+  "homepage": "https://github.com/salahsaifjalal/Number-Guessing-Game-TS#readme"
+}
