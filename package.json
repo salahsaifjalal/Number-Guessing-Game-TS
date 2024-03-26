@@ -1,7 +1,7 @@
 {
   "name": "number-guessing-game-ts",
   "version": "1.0.0",
-  "description": "This is a Number Guessing Game in TS.",
+  "description": "This is a CLI based Number Guessing Game in TS.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/salahsaifjalal/Number-Guessing-Game-TS/issues"
   },
-  "homepage": "https://github.com/salahsaifjalal/Number-Guessing-Game-TS#readme"
+  "homepage": "https://github.com/salahsaifjalal/Number-Guessing-Game-TS#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/inquirer": "^9.0.7"
+  }
 }

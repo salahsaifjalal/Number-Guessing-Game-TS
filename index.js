@@ -1,1 +1,2 @@
-console.log("salam salah");
+console.log("salam salah uddin");
+export {};
