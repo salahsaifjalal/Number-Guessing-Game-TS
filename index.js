@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 console.log(chalk.bold.magentaBright("Welcome to CLI based Number Guessing Game!"));
