@@ -83,7 +83,7 @@ let restartGame = async function () {
         const endingAnimation = myChalkAnimation.neon(`GOOD BYE! See you next time... :)`);
         setTimeout(() => {
             endingAnimation.stop();
-        }, 6000);
+        }, 5000);
         sysSays.speak(`Bye bye, Thnaks for playing the game.`);
     }
 };

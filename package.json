@@ -1,6 +1,6 @@
 {
   "name": "number-guessing-game-ts-salah-project",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "This is a CLI based Number Guessing Game in TS.",
   "main": "index.js",
   "type": "module",
